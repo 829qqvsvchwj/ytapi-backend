@@ -1,0 +1,22 @@
+{
+  "name": "ytapi-backend",
+  "description": "YouTube API that can fetch and play videos",
+  "repository": "https://github.com/829qqvsvchwj/ytapi-backend",
+  "keywords": [
+      "node",
+      "heroku",
+      "express",
+      "proxy",
+      "youtube"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "env": {
+    "YOUTUBE_API_KEY": {
+      "description": "Provide your own YouTube API key here! This application will not work without a valid key."
+    }
+  }
+}
