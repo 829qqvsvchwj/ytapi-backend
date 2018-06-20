@@ -4,7 +4,7 @@ This routes YouTube videos through heroku to provide a YouTube API that users ca
 
 ## Prerequisites
 
-Get a YouTube Data API Key (avaible from Google Cloud Portal)
+Get a YouTube Data API Key (avalible from Google Cloud Portal)
 
 ## Automatic Setup Process (recommended)
 
